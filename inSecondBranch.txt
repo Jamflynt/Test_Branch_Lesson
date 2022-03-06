@@ -3,3 +3,5 @@ This file is in the second branch
 This is some more example text
 
 This is a new thing in the third branch
+
+this is some text that is in the new-branch branch
